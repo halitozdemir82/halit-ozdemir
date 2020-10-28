@@ -1,0 +1,28 @@
+{
+  "name": "halit-ozdemir",
+  "version": "1.0.0",
+  "description": "bu bir denem projesidir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halitozdemir82/halit-ozdemir.git"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Halit Özdemir",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose":"5.10.7",
+    "nodemailer": "6.4.11",
+    "simple-is": "0.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/halitozdemir82/halit-ozdemir/issues"
+  },
+  "homepage": "https://github.com/halitozdemir82/halit-ozdemir#readme"
+}
